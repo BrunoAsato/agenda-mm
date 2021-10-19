@@ -1,6 +1,6 @@
 # :pencil: Sobre o projeto
 
-Esse projeto tem por finalidade testar o conhecimento através do desenvolvimento de uma agenda de contatos. 
+Esse projeto tem por finalidade testar o conhecimento através do desenvolvimento de uma agenda de contatos.
 
 ## Scripts disponíveis
 ### `yarn start`
@@ -14,7 +14,7 @@ Aqui o projeto além de ser iniciado, também é otimizado para o ambiente de pr
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-# Algumas informações sobre o autor podem ser encontradas a seguir:
+# Sobre o Autor:
 
 ## Contact
 
